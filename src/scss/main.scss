@@ -6,11 +6,12 @@ html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
 body {
-  color: $yellow;
-  background: $violet;
+  background: white;
 }
